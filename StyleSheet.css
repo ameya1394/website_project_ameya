@@ -1,20 +1,28 @@
 body {
-    background-color: rgb(6, 6, 82);
+    background-color: aliceblue;
 }
 h1{
-    background-color: whitesmoke;
-    padding-top: 50px;
+    background-color: rgb(6, 6, 82);
+    padding-top: 40px;
     text-align: center;
-    padding-bottom: 50px;
-    text-transform: capitalize;
+    padding-bottom: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 48px;
     font-style: oblique;
-    font-weight: bolder;    
+    font-weight: bolder;
+    color: aliceblue;
 }
 img{
-    height: 250px;
-    width: 250px;
-    padding: left 10px;;
-
+    height: 500px;
+    width: 400px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius: 50%;
+    border: 2px solid rgb(6, 6, 82);
+}
+nav{
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder; 
 }
