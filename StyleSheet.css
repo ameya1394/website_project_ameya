@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(6, 6, 82);
+}
+h1{
+    background-color: whitesmoke;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 48px;
+    font-style: oblique;
+    font-weight: bolder;    
+}
+img{
+    height: 250px;
+    width: 250px;
+    padding: left 10px;;
+
+}
