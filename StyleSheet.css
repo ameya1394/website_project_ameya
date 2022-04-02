@@ -1,8 +1,8 @@
 body {
-    background-color: aliceblue;
+    background-color: rgb(1, 1, 29);
 }
 h1{
-    background-color: rgb(6, 6, 82);
+    background-color: rgb(1, 1, 29);
     padding-top: 40px;
     text-align: center;
     padding-bottom: 40px;
@@ -18,8 +18,8 @@ img{
     float: left;
     margin-left: 50px;
     margin-top: 10px;
-    border-radius: 50%;
-    border: 2px solid rgb(6, 6, 82);
+    border-radius: 75%;
+    border: 2px solid aliceblue;
 }
 nav{
     background-color: aliceblue;
