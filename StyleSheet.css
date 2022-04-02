@@ -26,3 +26,13 @@ nav{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder; 
 }
+
+footer{
+    color: aliceblue;
+    position: fixed;
+    right:0;
+    padding-right: 10px;
+    bottom: 0;
+    padding-bottom: 10px;
+    text-align: center;
+}
