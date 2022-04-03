@@ -8,7 +8,6 @@ h1{
     padding-bottom: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 48px;
-    font-style: oblique;
     font-weight: bolder;
     color: aliceblue;
 }
@@ -29,6 +28,7 @@ nav{
 
 footer{
     color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: fixed;
     right:0;
     padding-right: 10px;
@@ -36,3 +36,12 @@ footer{
     padding-bottom: 10px;
     text-align: center;
 }
+h3{
+    color: aliceblue;
+    padding-left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+
