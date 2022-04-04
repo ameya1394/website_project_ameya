@@ -11,7 +11,7 @@ h1{
     font-weight: bolder;
     color: aliceblue;
 }
-img{
+img.alpha{
     height: 500px;
     width: 400px;
     float: left;
@@ -36,12 +36,16 @@ footer{
     padding-bottom: 10px;
     text-align: center;
 }
-h3{
+h3.mb-0{
     color: aliceblue;
-    padding-left: 25px;
+    padding-left: 250px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     font-size: larger;
 }
-
+img.beta{
+    margin-left: 50px;
+    width: 175px;
+    height: 125px;
+}
 
