@@ -45,9 +45,16 @@ h3.mb-0{
 }
 img.logo1{
     margin-left: 50px;
-    width: 175px;
-    height: 125px;
+    width: 200px;
+    height: 150px;
 }
+
+img.logo-fintricity{
+    margin-left: 50px;
+    width: 200px;
+    height: 175px;
+}
+
 .dates{
     color: rgb(163, 168, 172);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -57,12 +64,31 @@ img.logo1{
 .description-label1{
     margin-top: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: medium;
-    color: aliceblue;
+    font-size: 80%;
+    color: rgb(163, 168, 172);
     font-style: oblique;
 }
 img.logo2{
     margin-left: 50px;
     width: 200px;
     height: 175px;
+}
+
+li.bullet-header{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: 300;
+}
+p.bullet-disc{
+    color: rgb(163, 168, 172);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+p.description-label2{
+    margin-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+    font-style: oblique;
 }
