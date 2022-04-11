@@ -53,7 +53,6 @@ img.logo-fintricity{
     width: 200px;
     height: 175px;
 }
-
 .dates{
     color: rgb(163, 168, 172);
     font-family: 'Source Sans Pro', sans-serif;
@@ -91,3 +90,13 @@ p.description-label2{
     color: aliceblue;
     font-style: oblique;
 }
+h5{
+    margin-top: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 125%;
+    color: aliceblue;
+    justify-content: left;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+
