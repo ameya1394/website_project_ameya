@@ -90,15 +90,7 @@ p.description-label2{
     color: aliceblue;
     font-style: oblique;
 }
-h5{
-    margin-top: 50px;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 125%;
-    /* color: aliceblue; */
-    justify-content: left;
-    margin-right: 100px;
-    margin-left: 50px;
-}
+
 a.social-icon{
     display: inline-flex;
     align-items: center;
@@ -113,5 +105,20 @@ a.social-icon{
     margin-right: 1.5rem;
     box-sizing: border-box;
 }
-
+p.body-paragraph{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: aliceblue;
+    font-size: large;
+}
+p.emoji{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: aliceblue;
+    font-size: large;
+    margin-top: 50px;
+}
+p.card-text{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(1, 1, 29);
+    font-size: large;
+}
 
